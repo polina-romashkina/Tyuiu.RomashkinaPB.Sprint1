@@ -1,5 +1,10 @@
 <Solution>
   <Folder Name="/Task0/" />
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task1.V9.Lib/Tyuiu.RomashkinaPB.Sprint1.Task1.V9.Lib.csproj" Id="cf1466b1-522c-442c-b0dc-cad9b8646e19" />
+    <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task1.V9.Test/Tyuiu.RomashkinaPB.Sprint1.Task1.V9.Test.csproj" Id="a797a972-8e86-4b4d-aad6-d162330aa91b" />
+    <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task1.V9/Tyuiu.RomashkinaPB.Sprint1.Task1.V9.csproj" Id="63477118-8c51-4491-89c7-06c641672cc3" />
+  </Folder>
   <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task0.V8.Lib/Tyuiu.RomashkinaPB.Sprint1.Task0.V8.Lib.csproj" />
   <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task0.V8.Test/Tyuiu.RomashkinaPB.Sprint1.Task0.V8.Test.csproj" />
   <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task0.V8/Tyuiu.RomashkinaPB.Sprint1.Task0.V8.csproj" />
