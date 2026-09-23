@@ -20,6 +20,11 @@
     <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task4.V21.Test/Tyuiu.RomashkinaPB.Sprint1.Task4.V21.Test.csproj" Id="8da7e39a-78b1-4b14-bb5b-b8f521188492" />
     <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task4.V21/Tyuiu.RomashkinaPB.Sprint1.Task4.V21.csproj" Id="b23d6e08-df42-4bbe-b62a-29ead8395de1" />
   </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task5.V4.Lib/Tyuiu.RomashkinaPB.Sprint1.Task5.V4.Lib.csproj" Id="45b7a4b3-7231-467c-a514-6cd8fee1b206" />
+    <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task5.V4.Test/Tyuiu.RomashkinaPB.Sprint1.Task5.V4.Test.csproj" Id="ec6c0f3e-ece0-4d9b-bb38-4cc9dc60fd3b" />
+    <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task5.V4/Tyuiu.RomashkinaPB.Sprint1.Task5.V4.csproj" Id="d72b74fd-aa49-4246-aaed-7c94061e55d1" />
+  </Folder>
   <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task0.V8.Lib/Tyuiu.RomashkinaPB.Sprint1.Task0.V8.Lib.csproj" />
   <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task0.V8.Test/Tyuiu.RomashkinaPB.Sprint1.Task0.V8.Test.csproj" />
   <Project Path="Tyuiu.RomashkinaPB.Sprint1.Task0.V8/Tyuiu.RomashkinaPB.Sprint1.Task0.V8.csproj" />
