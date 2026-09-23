@@ -7,7 +7,7 @@ namespace Tyuiu.RomashkinaPB.Sprint1.Task4.V21.Lib
         public double Calculate(double x, double y)
         {
             var res = Math.Abs(Math.Pow(1 + x, 2) - y) / (x + y);
-            return res;
+            return Math.Round(res,3);
         }
     }
 }
